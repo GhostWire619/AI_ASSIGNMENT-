@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Environment / secrets
+.env
+
+# Runtime artifacts
+backend/logs/*.log
+backend/feedback.jsonl
+
+# Scratch
+_assignment_extracted.txt
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
+
+# Keep empty tracked dirs
+!backend/logs/.gitkeep
+!docs/screenshots/.gitkeep
