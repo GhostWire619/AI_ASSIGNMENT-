@@ -23,3 +23,6 @@ _assignment_extracted.txt
 # Keep empty tracked dirs
 !backend/logs/.gitkeep
 !docs/screenshots/.gitkeep
+node_modules/
+dist/
+.vite/
