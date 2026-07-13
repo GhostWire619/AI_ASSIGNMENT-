@@ -181,7 +181,7 @@ Side-by-side evidence of prompt improvement. The original bare prompt returned a
 ### 7.1 Error Handling Summary
 
 ![Error handling behaviour table](screenshots/error_handling.png)
-
+![Error handling behaviour table](screenshots/14-error-handling.png)
 The frontend and backend handle all four required failure scenarios:
 
 | Situation | Behaviour |
